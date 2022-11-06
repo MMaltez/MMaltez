@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MMaltez
-- 👀 I’m interested in cryptography, internet protocols, document management, time management, electronics, music, dance.
-- 🌱 I’m currently learning Git.
-- 💞️ I’m looking to collaborate on data processing work.
+- 👀 I’m interested in electronics, music, dance, PICO-8, M5Stack HW and document management and time management.
+- 🌱 I’m still learning Git.
+- 💞️ I’m looking to collaborate on work.
 - 📫 How to reach me ... you can't!
 
 <!---
